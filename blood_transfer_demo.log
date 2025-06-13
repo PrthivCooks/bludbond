@@ -1,0 +1,19 @@
+2025-06-12 23:11:46,659 - blood_transfer_blockchain - INFO - Genesis block created
+2025-06-12 23:11:46,660 - blood_transfer_blockchain - INFO - Hospital HOSP001 registered successfully
+2025-06-12 23:11:46,660 - blood_transfer_blockchain - INFO - Hospital HOSP002 registered successfully
+2025-06-12 23:11:46,661 - blood_transfer_blockchain - INFO - Hospital HOSP003 registered successfully
+2025-06-12 23:11:46,661 - blood_transfer_blockchain - INFO - Hospital HOSP004 registered successfully
+2025-06-12 23:11:46,661 - blood_transfer_blockchain - INFO - Hospital HOSP005 registered successfully
+2025-06-12 23:11:46,669 - blood_transfer_blockchain - INFO - Blood transfer transaction created: f1b90628-234c-449f-b2ec-66e2d084cdf3
+2025-06-12 23:11:46,670 - blood_transfer_blockchain - INFO - Blood transfer transaction created: 3f89eabb-aa48-4430-9f80-44eeed245cd8
+2025-06-12 23:11:46,671 - blood_transfer_blockchain - INFO - Blood transfer transaction created: ae2cab91-be03-451f-bc72-7e07b74c271f
+2025-06-12 23:11:46,672 - blood_transfer_blockchain - INFO - Blood transfer transaction created: 397063e8-df33-44a6-a856-5919ec387919
+2025-06-12 23:11:46,673 - blood_transfer_blockchain - INFO - Blood transfer transaction created: ea352e4f-eb42-49e0-ad20-c00c67509bfe
+2025-06-12 23:11:46,674 - blood_transfer_blockchain - WARNING - Hospital HOSP004 blacklisted due to tampering violations
+2025-06-12 23:11:46,676 - blood_transfer_blockchain - WARNING - Transfer validation failed: Sender hospital HOSP004 is blacklisted
+2025-06-12 23:11:46,688 - blood_transfer_blockchain - INFO - Block 1 mined by HOSP001
+2025-06-12 23:11:46,826 - blood_transfer_blockchain - INFO - Block 2 mined by HOSP002
+2025-06-12 23:11:46,923 - blood_transfer_blockchain - INFO - Block 3 mined by HOSP003
+2025-06-12 23:11:47,027 - blood_transfer_blockchain - INFO - Block 4 mined by HOSP005
+2025-06-12 23:11:47,042 - blood_transfer_grpc_client - INFO - Created insecure channel to localhost:50051
+2025-06-12 23:11:52,125 - blood_transfer_grpc_client - ERROR - Network connection timeout

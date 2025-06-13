@@ -1,0 +1,56 @@
+
+# Core blockchain and cryptography
+hashlib
+cryptography==41.0.7
+
+# gRPC for secure communication
+grpcio==1.59.0
+grpcio-tools==1.59.0
+protobuf==4.24.4
+
+# GPS and location services
+geopy==2.4.0
+folium==0.14.0
+
+# Web3 and blockchain libraries
+web3==6.12.0
+py-solc-x==1.12.1
+
+# HTTP and networking
+requests==2.31.0
+aiohttp==3.8.6
+
+# Data handling and utilities
+pandas==2.1.2
+numpy==1.25.2
+uuid
+json
+time
+datetime
+typing
+dataclasses
+
+# Database support
+sqlite3
+sqlalchemy==2.0.23
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Logging and monitoring
+logging
+structlog==23.2.0
+
+# Configuration management
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Security
+bcrypt==4.0.1
+pyjwt==2.8.0
+
+# Development tools
+black==23.9.1
+flake8==6.1.0
+mypy==1.6.1
